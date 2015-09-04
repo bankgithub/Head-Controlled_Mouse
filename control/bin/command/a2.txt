@@ -1,0 +1,5 @@
+1
+Intro
+[Head-Controlled Mouse System for Quadriplegic]
+{enter}
+A mouse and keyboard controlled software based on eye detection, face detection, and speech recognition. 

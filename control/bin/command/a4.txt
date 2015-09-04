@@ -1,0 +1,5 @@
+2
+Notepad++
+left 13 760 1
+notepad
+{enter}

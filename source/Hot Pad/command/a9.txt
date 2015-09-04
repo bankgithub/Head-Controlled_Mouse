@@ -1,0 +1,8 @@
+3
+google
+left 172 755 1
+wait 100
+left 308 44 1
+wait 2000
+www.google.com
+{enter}

@@ -1,0 +1,23 @@
+<GRAMMAR LANGID="409">
+<DEFINE>
+        <ID NAME="meeting"  VAL=  "1"/>
+        <ID NAME="AmyAnd"   VAL="100"/>
+        <ID NAME="tbremer"  VAL="101"/>
+        <ID NAME="fralee"   VAL="102"/>
+        <ID NAME="crandall" VAL="103"/>
+        <ID NAME="swhite"   VAL="104"/>
+        <ID NAME="kyoshida" VAL="105"/>
+</DEFINE>
+<RULE NAME="SCHEDULE" ID="139" TOPLEVEL="ACTIVE">
+
+        <L PROPNAME="request">
+            <P VAL="meeting">check</P>
+        </L>
+        <P>with</P>
+        <L PROPNAME="participants">
+            <P VAL="AmyAnd">Arm</P>
+            <P VAL="kyoshida">ken</P>
+
+        </L>
+</RULE>
+</GRAMMAR>

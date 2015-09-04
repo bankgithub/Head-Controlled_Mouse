@@ -1,0 +1,61 @@
+<GRAMMAR LANGID="409">
+<DEFINE>
+        <ID NAME="begin" VAL="101"/>
+        <ID NAME="yes" 	VAL="102"/>
+        <ID NAME="no" 	VAL="103"/>
+  <ID NAME="richard" 	VAL="104"/>
+  <ID NAME="philip" 	VAL="105"/>
+  <ID NAME="emma" 	VAL="106"/>
+  <ID NAME="daniel" 	VAL="107"/>
+  <ID NAME="tina" 	VAL="108"/>
+  <ID NAME="steve" 	VAL="109"/>
+  <ID NAME="henry" 	VAL="110"/>
+  <ID NAME="peter" 	VAL="111"/>
+  <ID NAME="robert" 	VAL="112"/>
+  <ID NAME="sarah" 	VAL="113"/>
+  <ID NAME="brian" 	VAL="114"/>
+  <ID NAME="thomas" 	VAL="115"/>
+  <ID NAME="britney" 	VAL="116"/>
+  <ID NAME="justin" 	VAL="117"/>
+  <ID NAME="tony" 	VAL="118"/>
+  <ID NAME="kevin" 	VAL="119"/>
+  <ID NAME="joseph" 	VAL="120"/>
+  <ID NAME="michael" 	VAL="121"/>
+  <ID NAME="michelle" 	VAL="122"/>
+  <ID NAME="donna" 	VAL="123"/>
+  <ID NAME="correct" 	VAL="124"/>
+
+
+
+</DEFINE>
+<RULE NAME="SCHEDULE" ID="139" TOPLEVEL="ACTIVE">
+        <L PROPNAME="grammar">
+          <P VAL="begin">begin</P>
+          <P VAL="yes">yes</P>
+          <P VAL="no">no</P>
+          <P VAL="richard">richard</P>
+          <P VAL="philip">philip</P>
+          <P VAL="emma">emma</P>
+          <P VAL="daniel">daniel</P>
+          <P VAL="tina">tina</P>
+          <P VAL="steve">steve</P>
+          <P VAL="henry">henry</P>
+          <P VAL="peter">peter</P>
+          <P VAL="robert">robert</P>
+          <P VAL="sarah">sarah</P>
+          <P VAL="brian">brian</P>
+          <P VAL="thomas">thomas</P>
+          <P VAL="britney">britney</P>
+          <P VAL="justin">justin</P>
+          <P VAL="tony">tony</P>
+          <P VAL="kevin">kevin</P>
+          <P VAL="joseph">joseph</P>
+          <P VAL="michael">michael</P>
+          <P VAL="michelle">michelle</P>
+          <P VAL="donna">donna</P>
+          <P VAL="correct">correct</P>
+          
+        
+        </L>
+</RULE>
+</GRAMMAR>

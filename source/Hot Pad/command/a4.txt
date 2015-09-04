@@ -1,0 +1,4 @@
+2
+word
+right 35 35 1
+left 60 40 1

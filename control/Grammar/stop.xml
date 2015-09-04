@@ -1,0 +1,32 @@
+<GRAMMAR LANGID="409">
+<DEFINE>
+        <ID NAME="stop" VAL="101"/>
+  <ID NAME="begin"  VAL="102"/>
+	<ID NAME="test"  	VAL="103"/>
+        <ID NAME="disaster"	VAL="104"/>
+	<ID NAME="good" 	VAL="105"/>
+        <ID NAME="will"	VAL="106"/>
+	<ID NAME="church" 	VAL="107"/>
+        <ID NAME="elvis"	VAL="108"/>
+	<ID NAME="corn" 	VAL="109"/>
+        <ID NAME="bowl"	VAL="110"/>
+
+  
+</DEFINE>
+<RULE NAME="SCHEDULE" ID="139" TOPLEVEL="ACTIVE">
+        <L PROPNAME="grammar">
+           			<P VAL="stop">stop</P>
+		
+			<P VAL="test">test</P>
+			<P VAL="disaster">disaster</P>
+			<P VAL="good">good</P>
+			<P VAL="will">will</P>
+			<P VAL="church">church</P>
+			<P VAL="elvis">elvis</P>
+			<P VAL="corn">corn</P>
+			<P VAL="bowl">bowl</P>
+          <P VAL="begin">begin</P>
+
+        </L>
+</RULE>
+</GRAMMAR>

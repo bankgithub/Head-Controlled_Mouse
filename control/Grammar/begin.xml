@@ -1,0 +1,16 @@
+<GRAMMAR LANGID="409">
+<DEFINE>
+        <ID NAME="begin" VAL="101"/>
+  <ID NAME="yes" VAL="102"/>
+  <ID NAME="no" VAL="103"/>
+  <ID NAME="stop" VAL="104"/>
+</DEFINE>
+<RULE NAME="SCHEDULE" ID="139" TOPLEVEL="ACTIVE">
+        <L PROPNAME="grammar">
+           	 <P VAL="begin">commence</P>
+          <P VAL="yes">right</P>
+          <P VAL="no">no</P>
+          <P VAL="stop">stop</P>
+        </L>
+</RULE>
+</GRAMMAR>

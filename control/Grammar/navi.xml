@@ -1,0 +1,26 @@
+<GRAMMAR LANGID="409">
+<DEFINE>
+  <ID NAME="office" 	    VAL="101"/>
+  <ID NAME="livingroom"  	VAL="102"/>
+	<ID NAME="bedroom"  	  VAL="103"/>
+  <ID NAME="diningroom" 	VAL="104"/>
+	<ID NAME="libraly" 	    VAL="105"/>
+  <ID NAME="kitchen"	   VAL="106"/>
+  
+</DEFINE>
+<RULE NAME="SCHEDULE" ID="139" TOPLEVEL="ACTIVE">
+  <OPT>
+  <P>go</P>
+  </OPT>
+	<OPT><P>to</P></OPT>
+   <L PROPNAME="room">
+      		<P VAL="office">office</P>
+		      <P VAL="livingroom">livingroom</P>
+		      <P VAL="bedroom">bedroom</P>
+		      <P VAL="diningroom">diningroom</P>
+		      <P VAL="libraly">libraly</P>
+		      <P VAL="kitchen">kitchen</P>
+	 </L>
+
+</RULE>
+</GRAMMAR>

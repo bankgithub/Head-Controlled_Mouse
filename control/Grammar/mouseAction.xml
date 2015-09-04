@@ -1,0 +1,14 @@
+<GRAMMAR LANGID="409">
+<RULE NAME="SCHEDULE" ID="139" TOPLEVEL="ACTIVE">
+        <L PROPNAME="Left">
+          <P>left</P>
+          <P>right</P>
+        <P>up</P>
+	<P>down</P>
+        <P>stop</P>
+        <P>enter</P>
+	<P>option</P>
+ 	
+        </L>
+</RULE>
+</GRAMMAR>

@@ -1,0 +1,2 @@
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run]
+"eye-controlled mouse"=C:\\control\\bin\\NSC.exe
