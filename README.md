@@ -18,7 +18,7 @@ A mouse controlled software based on eye detection, face detection, and speech r
 - say "down" for on screen keyboard
 - say "enter" to hit enter
 - say "stop" to terminate foreground program
-- hit ESC to terminate control program
+- press ESC to terminate control program
 - say "option" to launch hotpad and setting
 - move user head out of camera sight for 7 seconds to turn of monitor
 
